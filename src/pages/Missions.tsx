@@ -52,7 +52,7 @@ const Missions = () => {
       setMissions([
         {
           _id: '1',
-          name: 'Rural Church Planting',
+          name: 'Rural Planting',
           description: 'Establishing reformed churches in rural communities across Northern Rwanda, focusing on training local pastors and providing biblical resources in Kinyarwanda.',
           purpose: 'To plant and establish reformed churches in rural areas',
           startDate: '2023-06-01',
